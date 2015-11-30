@@ -1,4 +1,4 @@
-# Call-Node-via-CFML
+# Call-node.js-via-CFML
 Easiest way to invoke node.js from CFML (AFAIK)
 
 Open the CFML file (call.cfm) via the browser and it will create the "dynamically_created_file.txt" file. 
